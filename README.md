@@ -19,7 +19,7 @@ Label 1 represents Positive sentiment while Label 0 represents Negative sentimen
    
    A sentence in which the first non-stop word is negative is assigned to the negative class(0) otherwise it is assigned to the positive class(1).
    
-<b> Model <\b>
+<b> Model </b>
   
 We used pytorch to built vanilla RNN and trained it over the training dataset and then evaluated it against validation set.
 
