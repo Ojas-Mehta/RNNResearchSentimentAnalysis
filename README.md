@@ -25,4 +25,7 @@ We used pytorch to built vanilla RNN and trained it over the training dataset an
 
 We used single layer unidirectional RNN with different number of hidden units. The equations are similar to the ones mentioned in pytorch documentation of basic RNN. It has fully connected layer as the last layer. Adam optimizer and tanh activation function is used. The cross entropy loss function used.
 
-The learning rate is 0.001, patience parameter is 4, 10 input units and 2 output units.
+The random seed is 2109, learning rate is 0.001, patience parameter is 4, input units are 10 and output units are 2, the maximum epochs are 150.
+
+The ModelCount8.pt was trained on Dataset1 with 8 hidden units. The accuracy on training dataset (train_count10) and validation dataset (val_count10) is 97.96% and 98.25% respectively.
+The code used is written in SentimentAnalysisCode.ipynb. ModelCount8.pt has the saved model, AccuracyCount.txt has the losses and accuracies after each epoch, ResultCount9.json has the model parameters.
