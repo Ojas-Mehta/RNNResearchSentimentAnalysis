@@ -10,11 +10,11 @@ The vocubulary has 100 words (0-99) where words [80,89] are positive, [90,99] ar
 
 Label 1 represents Positive sentiment while Label 0 represents Negative sentiment.
 
-1) <b>Dataset1:<\b>
+1) <b>Dataset1:</b>
    train_count10 = 15000 instances, val_count10 = 2000 instances, test_count10 = 3000 instances.
    A sentence with number of positive words greater than or equal to number of negative words is assigned to a positive class(1) otherwise it is assigned to a negative class(0).
    
-2) <b>Dataset2:<\b>
+2) <b>Dataset2:</b>
    train_first10 = 15000 instances, val_first10 = 2000 instances, test_first10 = 3000 instances.
    
    A sentence in which the first non-stop word is negative is assigned to the negative class(0) otherwise it is assigned to the positive class(1).
