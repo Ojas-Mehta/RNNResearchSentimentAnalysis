@@ -1,0 +1,304 @@
+GPU is available
+Training Loss and Accuracy: 0.7617, 39.3000
+Validation Loss and Accuracy: 0.7612, 38.6500
+Epoch: 1/150............. Training Loss and Accuracy: 0.6416, 64.8467
+Validation Loss and Accuracy: 0.6559, 63.5500
+Epoch: 2/150............. Training Loss and Accuracy: 0.6304, 65.3667
+Validation Loss and Accuracy: 0.6448, 63.6500
+Epoch: 3/150............. Training Loss and Accuracy: 0.6155, 66.7600
+Validation Loss and Accuracy: 0.6266, 65.2000
+Epoch: 4/150............. Training Loss and Accuracy: 0.6004, 67.6533
+Validation Loss and Accuracy: 0.6063, 67.3000
+Epoch: 5/150............. Training Loss and Accuracy: 0.5874, 68.5200
+Validation Loss and Accuracy: 0.5915, 68.4500
+Epoch: 6/150............. Training Loss and Accuracy: 0.5682, 69.8133
+Validation Loss and Accuracy: 0.5700, 70.3500
+Epoch: 7/150............. Training Loss and Accuracy: 0.5415, 71.6667
+Validation Loss and Accuracy: 0.5404, 72.3000
+Epoch: 8/150............. Training Loss and Accuracy: 0.5088, 74.3133
+Validation Loss and Accuracy: 0.5045, 75.6000
+Epoch: 9/150............. Training Loss and Accuracy: 0.4705, 77.1867
+Validation Loss and Accuracy: 0.4634, 78.7000
+Epoch: 10/150............. Training Loss and Accuracy: 0.4383, 79.8267
+Validation Loss and Accuracy: 0.4301, 80.9000
+Epoch: 11/150............. Training Loss and Accuracy: 0.4142, 81.4200
+Validation Loss and Accuracy: 0.4057, 83.0500
+Epoch: 12/150............. Training Loss and Accuracy: 0.3953, 82.5533
+Validation Loss and Accuracy: 0.3867, 83.8000
+Epoch: 13/150............. Training Loss and Accuracy: 0.3800, 83.3067
+Validation Loss and Accuracy: 0.3715, 84.3000
+Epoch: 14/150............. Training Loss and Accuracy: 0.3674, 83.8333
+Validation Loss and Accuracy: 0.3592, 84.6500
+Epoch: 15/150............. Training Loss and Accuracy: 0.3570, 84.4467
+Validation Loss and Accuracy: 0.3493, 85.0000
+Epoch: 16/150............. Training Loss and Accuracy: 0.3482, 84.9533
+Validation Loss and Accuracy: 0.3411, 85.3000
+Epoch: 17/150............. Training Loss and Accuracy: 0.3406, 85.3600
+Validation Loss and Accuracy: 0.3342, 85.5500
+Epoch: 18/150............. Training Loss and Accuracy: 0.3338, 85.6667
+Validation Loss and Accuracy: 0.3281, 86.0000
+Epoch: 19/150............. Training Loss and Accuracy: 0.3275, 86.1000
+Validation Loss and Accuracy: 0.3225, 86.0500
+Epoch: 20/150............. Training Loss and Accuracy: 0.3216, 86.2933
+Validation Loss and Accuracy: 0.3172, 86.3500
+Epoch: 21/150............. Training Loss and Accuracy: 0.3158, 86.5333
+Validation Loss and Accuracy: 0.3119, 86.7500
+Epoch: 22/150............. Training Loss and Accuracy: 0.3100, 86.6933
+Validation Loss and Accuracy: 0.3064, 86.9000
+Epoch: 23/150............. Training Loss and Accuracy: 0.3042, 86.8733
+Validation Loss and Accuracy: 0.3007, 87.0500
+Epoch: 24/150............. Training Loss and Accuracy: 0.2983, 87.1733
+Validation Loss and Accuracy: 0.2949, 87.3500
+Epoch: 25/150............. Training Loss and Accuracy: 0.2926, 87.5667
+Validation Loss and Accuracy: 0.2890, 87.7500
+Epoch: 26/150............. Training Loss and Accuracy: 0.2871, 87.8067
+Validation Loss and Accuracy: 0.2832, 88.1500
+Epoch: 27/150............. Training Loss and Accuracy: 0.2819, 88.0600
+Validation Loss and Accuracy: 0.2777, 88.5500
+Epoch: 28/150............. Training Loss and Accuracy: 0.2771, 88.2600
+Validation Loss and Accuracy: 0.2724, 88.9500
+Epoch: 29/150............. Training Loss and Accuracy: 0.2726, 88.4867
+Validation Loss and Accuracy: 0.2675, 89.2000
+Epoch: 30/150............. Training Loss and Accuracy: 0.2683, 88.6867
+Validation Loss and Accuracy: 0.2630, 89.5000
+Epoch: 31/150............. Training Loss and Accuracy: 0.2644, 88.9133
+Validation Loss and Accuracy: 0.2587, 89.7500
+Epoch: 32/150............. Training Loss and Accuracy: 0.2607, 89.1800
+Validation Loss and Accuracy: 0.2547, 89.8500
+Epoch: 33/150............. Training Loss and Accuracy: 0.2572, 89.4000
+Validation Loss and Accuracy: 0.2510, 89.9500
+Epoch: 34/150............. Training Loss and Accuracy: 0.2539, 89.6133
+Validation Loss and Accuracy: 0.2474, 90.4000
+Epoch: 35/150............. Training Loss and Accuracy: 0.2507, 89.8533
+Validation Loss and Accuracy: 0.2440, 90.5500
+Epoch: 36/150............. Training Loss and Accuracy: 0.2477, 90.0000
+Validation Loss and Accuracy: 0.2407, 90.5500
+Epoch: 37/150............. Training Loss and Accuracy: 0.2447, 90.2067
+Validation Loss and Accuracy: 0.2375, 90.7000
+Epoch: 38/150............. Training Loss and Accuracy: 0.2418, 90.3800
+Validation Loss and Accuracy: 0.2345, 90.7500
+Epoch: 39/150............. Training Loss and Accuracy: 0.2389, 90.4933
+Validation Loss and Accuracy: 0.2314, 90.9000
+Epoch: 40/150............. Training Loss and Accuracy: 0.2362, 90.5133
+Validation Loss and Accuracy: 0.2285, 90.9000
+Epoch: 41/150............. Training Loss and Accuracy: 0.2335, 90.5867
+Validation Loss and Accuracy: 0.2256, 90.9500
+Epoch: 42/150............. Training Loss and Accuracy: 0.2308, 90.6800
+Validation Loss and Accuracy: 0.2228, 91.0500
+Epoch: 43/150............. Training Loss and Accuracy: 0.2282, 90.7400
+Validation Loss and Accuracy: 0.2201, 91.3000
+Epoch: 44/150............. Training Loss and Accuracy: 0.2257, 90.9200
+Validation Loss and Accuracy: 0.2174, 91.4500
+Epoch: 45/150............. Training Loss and Accuracy: 0.2232, 91.0667
+Validation Loss and Accuracy: 0.2148, 91.5500
+Epoch: 46/150............. Training Loss and Accuracy: 0.2207, 91.1800
+Validation Loss and Accuracy: 0.2122, 91.5500
+Epoch: 47/150............. Training Loss and Accuracy: 0.2184, 91.1667
+Validation Loss and Accuracy: 0.2097, 91.5500
+Epoch: 48/150............. Training Loss and Accuracy: 0.2160, 91.2467
+Validation Loss and Accuracy: 0.2073, 91.7000
+Epoch: 49/150............. Training Loss and Accuracy: 0.2137, 91.2600
+Validation Loss and Accuracy: 0.2049, 91.7500
+Epoch: 50/150............. Training Loss and Accuracy: 0.2115, 91.4000
+Validation Loss and Accuracy: 0.2026, 91.7500
+Epoch: 51/150............. Training Loss and Accuracy: 0.2093, 91.4867
+Validation Loss and Accuracy: 0.2003, 91.7500
+Epoch: 52/150............. Training Loss and Accuracy: 0.2072, 91.6200
+Validation Loss and Accuracy: 0.1980, 91.8500
+Epoch: 53/150............. Training Loss and Accuracy: 0.2050, 91.7200
+Validation Loss and Accuracy: 0.1958, 91.8000
+Epoch: 54/150............. Training Loss and Accuracy: 0.2030, 91.7533
+Validation Loss and Accuracy: 0.1937, 92.2000
+Epoch: 55/150............. Training Loss and Accuracy: 0.2009, 91.8467
+Validation Loss and Accuracy: 0.1916, 92.3500
+Epoch: 56/150............. Training Loss and Accuracy: 0.1989, 91.9467
+Validation Loss and Accuracy: 0.1896, 92.4500
+Epoch: 57/150............. Training Loss and Accuracy: 0.1970, 91.9733
+Validation Loss and Accuracy: 0.1875, 92.6500
+Epoch: 58/150............. Training Loss and Accuracy: 0.1951, 92.1000
+Validation Loss and Accuracy: 0.1856, 92.8500
+Epoch: 59/150............. Training Loss and Accuracy: 0.1932, 92.1733
+Validation Loss and Accuracy: 0.1837, 92.9000
+Epoch: 60/150............. Training Loss and Accuracy: 0.1913, 92.2933
+Validation Loss and Accuracy: 0.1818, 92.9000
+Epoch: 61/150............. Training Loss and Accuracy: 0.1895, 92.4733
+Validation Loss and Accuracy: 0.1799, 92.7500
+Epoch: 62/150............. Training Loss and Accuracy: 0.1877, 92.5867
+Validation Loss and Accuracy: 0.1781, 92.8000
+Epoch: 63/150............. Training Loss and Accuracy: 0.1860, 92.6400
+Validation Loss and Accuracy: 0.1763, 92.7500
+Epoch: 64/150............. Training Loss and Accuracy: 0.1842, 92.7533
+Validation Loss and Accuracy: 0.1745, 92.8500
+Epoch: 65/150............. Training Loss and Accuracy: 0.1825, 92.8467
+Validation Loss and Accuracy: 0.1728, 93.1000
+Epoch: 66/150............. Training Loss and Accuracy: 0.1808, 92.9067
+Validation Loss and Accuracy: 0.1711, 93.1000
+Epoch: 67/150............. Training Loss and Accuracy: 0.1792, 92.9400
+Validation Loss and Accuracy: 0.1694, 93.0500
+Epoch: 68/150............. Training Loss and Accuracy: 0.1775, 93.0200
+Validation Loss and Accuracy: 0.1678, 93.0500
+Epoch: 69/150............. Training Loss and Accuracy: 0.1759, 93.1333
+Validation Loss and Accuracy: 0.1661, 93.1500
+Epoch: 70/150............. Training Loss and Accuracy: 0.1743, 93.2400
+Validation Loss and Accuracy: 0.1645, 93.3500
+Epoch: 71/150............. Training Loss and Accuracy: 0.1728, 93.3133
+Validation Loss and Accuracy: 0.1628, 93.3000
+Epoch: 72/150............. Training Loss and Accuracy: 0.1712, 93.3933
+Validation Loss and Accuracy: 0.1612, 93.3500
+Epoch: 73/150............. Training Loss and Accuracy: 0.1697, 93.4467
+Validation Loss and Accuracy: 0.1596, 93.3000
+Epoch: 74/150............. Training Loss and Accuracy: 0.1681, 93.4533
+Validation Loss and Accuracy: 0.1580, 93.3500
+Epoch: 75/150............. Training Loss and Accuracy: 0.1666, 93.5733
+Validation Loss and Accuracy: 0.1564, 93.4500
+Epoch: 76/150............. Training Loss and Accuracy: 0.1651, 93.6733
+Validation Loss and Accuracy: 0.1548, 93.5500
+Epoch: 77/150............. Training Loss and Accuracy: 0.1636, 93.7267
+Validation Loss and Accuracy: 0.1532, 93.7500
+Epoch: 78/150............. Training Loss and Accuracy: 0.1621, 93.7867
+Validation Loss and Accuracy: 0.1516, 93.9500
+Epoch: 79/150............. Training Loss and Accuracy: 0.1606, 93.8467
+Validation Loss and Accuracy: 0.1500, 93.9500
+Epoch: 80/150............. Training Loss and Accuracy: 0.1591, 93.8667
+Validation Loss and Accuracy: 0.1484, 93.9500
+Epoch: 81/150............. Training Loss and Accuracy: 0.1576, 93.8600
+Validation Loss and Accuracy: 0.1467, 93.9000
+Epoch: 82/150............. Training Loss and Accuracy: 0.1561, 93.9667
+Validation Loss and Accuracy: 0.1451, 93.9000
+Epoch: 83/150............. Training Loss and Accuracy: 0.1546, 94.0600
+Validation Loss and Accuracy: 0.1435, 94.0000
+Epoch: 84/150............. Training Loss and Accuracy: 0.1531, 94.1200
+Validation Loss and Accuracy: 0.1418, 94.1500
+Epoch: 85/150............. Training Loss and Accuracy: 0.1516, 94.1933
+Validation Loss and Accuracy: 0.1402, 94.3000
+Epoch: 86/150............. Training Loss and Accuracy: 0.1501, 94.2333
+Validation Loss and Accuracy: 0.1386, 94.3000
+Epoch: 87/150............. Training Loss and Accuracy: 0.1486, 94.2800
+Validation Loss and Accuracy: 0.1369, 94.4000
+Epoch: 88/150............. Training Loss and Accuracy: 0.1470, 94.3467
+Validation Loss and Accuracy: 0.1353, 94.6500
+Epoch: 89/150............. Training Loss and Accuracy: 0.1455, 94.4000
+Validation Loss and Accuracy: 0.1336, 94.6500
+Epoch: 90/150............. Training Loss and Accuracy: 0.1440, 94.4333
+Validation Loss and Accuracy: 0.1320, 94.6000
+Epoch: 91/150............. Training Loss and Accuracy: 0.1425, 94.5133
+Validation Loss and Accuracy: 0.1304, 94.7000
+Epoch: 92/150............. Training Loss and Accuracy: 0.1410, 94.6267
+Validation Loss and Accuracy: 0.1288, 95.0000
+Epoch: 93/150............. Training Loss and Accuracy: 0.1395, 94.7267
+Validation Loss and Accuracy: 0.1272, 94.9500
+Epoch: 94/150............. Training Loss and Accuracy: 0.1380, 94.7533
+Validation Loss and Accuracy: 0.1257, 95.1500
+Epoch: 95/150............. Training Loss and Accuracy: 0.1365, 94.8133
+Validation Loss and Accuracy: 0.1242, 95.3500
+Epoch: 96/150............. Training Loss and Accuracy: 0.1350, 94.9200
+Validation Loss and Accuracy: 0.1227, 95.4000
+Epoch: 97/150............. Training Loss and Accuracy: 0.1335, 95.0267
+Validation Loss and Accuracy: 0.1212, 95.6000
+Epoch: 98/150............. Training Loss and Accuracy: 0.1320, 95.1200
+Validation Loss and Accuracy: 0.1198, 95.7000
+Epoch: 99/150............. Training Loss and Accuracy: 0.1306, 95.1867
+Validation Loss and Accuracy: 0.1184, 95.7500
+Epoch: 100/150............. Training Loss and Accuracy: 0.1291, 95.2933
+Validation Loss and Accuracy: 0.1170, 95.9000
+Epoch: 101/150............. Training Loss and Accuracy: 0.1277, 95.4000
+Validation Loss and Accuracy: 0.1156, 96.0500
+Epoch: 102/150............. Training Loss and Accuracy: 0.1263, 95.4067
+Validation Loss and Accuracy: 0.1142, 96.1000
+Epoch: 103/150............. Training Loss and Accuracy: 0.1249, 95.4533
+Validation Loss and Accuracy: 0.1129, 96.2500
+Epoch: 104/150............. Training Loss and Accuracy: 0.1234, 95.5267
+Validation Loss and Accuracy: 0.1116, 96.2500
+Epoch: 105/150............. Training Loss and Accuracy: 0.1220, 95.6267
+Validation Loss and Accuracy: 0.1103, 96.3000
+Epoch: 106/150............. Training Loss and Accuracy: 0.1206, 95.7133
+Validation Loss and Accuracy: 0.1090, 96.4000
+Epoch: 107/150............. Training Loss and Accuracy: 0.1192, 95.8067
+Validation Loss and Accuracy: 0.1076, 96.5500
+Epoch: 108/150............. Training Loss and Accuracy: 0.1178, 95.8000
+Validation Loss and Accuracy: 0.1064, 96.5500
+Epoch: 109/150............. Training Loss and Accuracy: 0.1164, 95.8933
+Validation Loss and Accuracy: 0.1051, 96.5000
+Epoch: 110/150............. Training Loss and Accuracy: 0.1150, 95.9733
+Validation Loss and Accuracy: 0.1038, 96.6000
+Epoch: 111/150............. Training Loss and Accuracy: 0.1136, 96.0533
+Validation Loss and Accuracy: 0.1025, 96.6500
+Epoch: 112/150............. Training Loss and Accuracy: 0.1122, 96.1000
+Validation Loss and Accuracy: 0.1013, 96.8000
+Epoch: 113/150............. Training Loss and Accuracy: 0.1109, 96.2267
+Validation Loss and Accuracy: 0.1000, 96.8000
+Epoch: 114/150............. Training Loss and Accuracy: 0.1095, 96.3000
+Validation Loss and Accuracy: 0.0988, 96.8000
+Epoch: 115/150............. Training Loss and Accuracy: 0.1081, 96.3800
+Validation Loss and Accuracy: 0.0976, 96.8000
+Epoch: 116/150............. Training Loss and Accuracy: 0.1068, 96.4200
+Validation Loss and Accuracy: 0.0964, 96.8000
+Epoch: 117/150............. Training Loss and Accuracy: 0.1055, 96.4733
+Validation Loss and Accuracy: 0.0952, 96.8000
+Epoch: 118/150............. Training Loss and Accuracy: 0.1042, 96.5133
+Validation Loss and Accuracy: 0.0941, 96.9000
+Epoch: 119/150............. Training Loss and Accuracy: 0.1030, 96.6133
+Validation Loss and Accuracy: 0.0930, 96.9000
+Epoch: 120/150............. Training Loss and Accuracy: 0.1017, 96.6333
+Validation Loss and Accuracy: 0.0919, 96.9000
+Epoch: 121/150............. Training Loss and Accuracy: 0.1005, 96.6800
+Validation Loss and Accuracy: 0.0908, 96.9000
+Epoch: 122/150............. Training Loss and Accuracy: 0.0993, 96.7400
+Validation Loss and Accuracy: 0.0898, 97.1000
+Epoch: 123/150............. Training Loss and Accuracy: 0.0982, 96.8067
+Validation Loss and Accuracy: 0.0888, 97.1000
+Epoch: 124/150............. Training Loss and Accuracy: 0.0971, 96.8733
+Validation Loss and Accuracy: 0.0878, 97.2500
+Epoch: 125/150............. Training Loss and Accuracy: 0.0959, 96.9133
+Validation Loss and Accuracy: 0.0869, 97.3000
+Epoch: 126/150............. Training Loss and Accuracy: 0.0949, 96.9333
+Validation Loss and Accuracy: 0.0860, 97.4000
+Epoch: 127/150............. Training Loss and Accuracy: 0.0938, 96.9867
+Validation Loss and Accuracy: 0.0851, 97.4500
+Epoch: 128/150............. Training Loss and Accuracy: 0.0928, 97.0467
+Validation Loss and Accuracy: 0.0842, 97.5000
+Epoch: 129/150............. Training Loss and Accuracy: 0.0917, 97.1133
+Validation Loss and Accuracy: 0.0833, 97.5500
+Epoch: 130/150............. Training Loss and Accuracy: 0.0907, 97.1533
+Validation Loss and Accuracy: 0.0825, 97.6500
+Epoch: 131/150............. Training Loss and Accuracy: 0.0897, 97.2200
+Validation Loss and Accuracy: 0.0816, 97.6500
+Epoch: 132/150............. Training Loss and Accuracy: 0.0887, 97.2467
+Validation Loss and Accuracy: 0.0808, 97.6500
+Epoch: 133/150............. Training Loss and Accuracy: 0.0878, 97.3200
+Validation Loss and Accuracy: 0.0800, 97.7000
+Epoch: 134/150............. Training Loss and Accuracy: 0.0868, 97.3733
+Validation Loss and Accuracy: 0.0792, 97.7000
+Epoch: 135/150............. Training Loss and Accuracy: 0.0858, 97.4000
+Validation Loss and Accuracy: 0.0783, 97.7000
+Epoch: 136/150............. Training Loss and Accuracy: 0.0849, 97.4333
+Validation Loss and Accuracy: 0.0775, 97.7500
+Epoch: 137/150............. Training Loss and Accuracy: 0.0839, 97.4800
+Validation Loss and Accuracy: 0.0767, 97.7500
+Epoch: 138/150............. Training Loss and Accuracy: 0.0829, 97.5533
+Validation Loss and Accuracy: 0.0759, 97.8500
+Epoch: 139/150............. Training Loss and Accuracy: 0.0820, 97.5667
+Validation Loss and Accuracy: 0.0750, 97.8500
+Epoch: 140/150............. Training Loss and Accuracy: 0.0811, 97.6000
+Validation Loss and Accuracy: 0.0742, 97.9000
+Epoch: 141/150............. Training Loss and Accuracy: 0.0801, 97.6333
+Validation Loss and Accuracy: 0.0734, 98.0000
+Epoch: 142/150............. Training Loss and Accuracy: 0.0792, 97.6800
+Validation Loss and Accuracy: 0.0726, 98.1500
+Epoch: 143/150............. Training Loss and Accuracy: 0.0783, 97.7133
+Validation Loss and Accuracy: 0.0718, 98.2000
+Epoch: 144/150............. Training Loss and Accuracy: 0.0773, 97.7533
+Validation Loss and Accuracy: 0.0710, 98.2000
+Epoch: 145/150............. Training Loss and Accuracy: 0.0764, 97.7867
+Validation Loss and Accuracy: 0.0702, 98.1500
+Epoch: 146/150............. Training Loss and Accuracy: 0.0755, 97.8267
+Validation Loss and Accuracy: 0.0694, 98.1500
+Epoch: 147/150............. Training Loss and Accuracy: 0.0746, 97.8533
+Validation Loss and Accuracy: 0.0686, 98.2000
+Epoch: 148/150............. Training Loss and Accuracy: 0.0737, 97.8933
+Validation Loss and Accuracy: 0.0678, 98.2000
+Epoch: 149/150............. Training Loss and Accuracy: 0.0729, 97.9133
+Validation Loss and Accuracy: 0.0671, 98.2000
+Epoch: 150/150............. Training Loss and Accuracy: 0.0720, 97.9600
+Validation Loss and Accuracy: 0.0663, 98.2500
+training finished
