@@ -1,7 +1,7 @@
 # RNNResearchSentimentAnalysis
 This repository contains the code that is being used in part of my research project.
 
-<b>EXPERIMENT 1<\b>
+<b>EXPERIMENT 1</b>
 
 The Experiment investigates the effect of non-stop words on the state of RNN.
 
@@ -39,7 +39,7 @@ The code used is written in **SentimentAnalysisCode.ipynb**. **ModelCount8.pt** 
 
 
 
-<b>EXPERIMENT 2<\b>
+<b>EXPERIMENT 2</b>
 
 The Experiment does comparative analysis of RNN and GRU on synthetic dataset and investigates various aspects like representative power, trainability of networks etc.
 
